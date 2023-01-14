@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavshah442
 - 👀 I'm interested in creating reallife projects
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Django Web Development 
 - 📫 vaibhav.anjar@gmail.com
 
 <!---
