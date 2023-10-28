@@ -1,10 +1,10 @@
-## Hi, I’m @vaibhavshah442
-- I’m DevOps Engineer
+# Hi, I’m @vaibhavshah442
+## I’m DevOps Engineer
 - Developed projects
 - Also interested in backend development
 
 📫 vaibhav.anjar@gmail.com
 
-##Skills 
+###Skills 
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a href="https://www.docker.com" target="_blank" rel="noreferrer"><a><img src="https://github.com/vaibhavshah442/images_png/blob/main/icons/Docker.svg" width="32" height="32" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/vaibhavshah442/images_png/blob/main/icons/AWS-Light.svg" width="32" height="32" padding="10" /></a><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/vaibhavshah442/images_png/blob/main/icons/Linux-Light.svg" width="32" height="32" /></a><a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://github.com/vaibhavshah442/images_png/blob/main/icons/terraform.png" width="32" height="32" /></a>
 </p>
