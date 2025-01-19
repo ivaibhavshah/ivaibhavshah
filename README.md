@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @ivaibhavshah</h1>
 <h3 align="center">I’m Backend Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **FastAPI, Django, AWS**
+- 💬 Ask me about **FastAPI, Django, AWS, ExpressJS**
 
 - 📫 How to reach me **vaibhav.anjar@gmail.com**
 
